@@ -1,7 +1,6 @@
 # live_location_tracking
 
 ![image](https://user-images.githubusercontent.com/90995877/177291578-6730bea9-3a8a-4840-ad12-3e5b50ab9b42.png)   
-![video](https://www.youtube.com/watch?v=RxWhBpctJas)
 
 
 
